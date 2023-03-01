@@ -6,4 +6,5 @@
 * Select "OAuth client ID" and follow the prompts to set up the credentials.
 
 * Open client_secret.json file in the given project and edit the "client_id", "project_id" and "client_secret" from the downloaded json file.
-* Open terminal from the root folder run 'python manage.py runserver' 
+* Open terminal & from project root folder 
+*  run 'python manage.py runserver' 
