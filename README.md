@@ -1,9 +1,8 @@
-### Django_GoogleCalender_Api
-####Get Started:
--Clone the repo.
--Go to the Google API console (https://console.developers.google.com/).
--Create a new project or select an existing one.
--In the sidebar, click on "Credentials" and then click on the "Create credentials" button.
--Select "OAuth client ID" and follow the prompts to set up the credentials.
--Open client_secret.json file and edit the "client_id", "project_id" and "client_secret" from the json file.
--Open terminal from the root folder run 'python manage.py runserver' 
+## Get Started
+* Clone the repo.
+* Go to the Google API console (https://console.developers.google.com/).
+* Create a new project or select an existing one.
+* In the sidebar, click on "Credentials" and then click on the "Create credentials" button.
+* Select "OAuth client ID" and follow the prompts to set up the credentials.
+* Open client_secret.json file and edit the "client_id", "project_id" and "client_secret" from the json file.
+* Open terminal from the root folder run 'python manage.py runserver' 
